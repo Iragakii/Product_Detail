@@ -329,3 +329,10 @@ body{
 .box-slider:nth-child(2){
   transform: translateX(100%);
 }
+.chevron-fa-one:hover {
+  background-color: #acadab;
+
+}
+.chevron-fa-two:hover {
+  background-color: #acadab;
+}
